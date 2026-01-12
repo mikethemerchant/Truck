@@ -7,3 +7,5 @@
 **Current Focus:** 2026 PA inspection and completing ongoing maintenance/upgrades. Balance cost, reliability, and utility.
 
 **Constraints:** Must remain affordable, practical, and reliable; not a show vehicle; can handle dirt roads/woods; family-friendly; no large monthly payments.
+
+![My 1999 F250](images/Truck.png)
