@@ -7,7 +7,7 @@
 |--------|:------:|-------|
 | Brakes | 🟡 | Check pad life before inspection |
 | Lights | 🟢 | All external lights functional? |
-| Tires | 🟡 | Check tread depth & dry rot |
+| Tires | 🟡 | wobble rear tires |
 | Emissions| 🟡 | Check for smoke/codes |
 | Wipers | 🟢 | |
 
