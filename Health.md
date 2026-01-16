@@ -7,8 +7,8 @@
 |--------|:------:|-------|
 | Brakes | 🟢 | Check pad life before inspection |
 | Lights | 🟢 | All external lights functional? |
-| Tires | 🔴 | Check tread depth & dry rot |
-| Emissions| 🟢 | Check for smoke/codes |
+| Tires | 🟡 | wobble rear tires |
+| Emissions| 🟡 | Check for smoke/codes |
 | Wipers | 🟢 | |
 
 ## ⚙️ Powertrain
