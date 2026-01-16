@@ -8,4 +8,6 @@
 
 **Constraints:** Must remain affordable, practical, and reliable; not a show vehicle; can handle dirt roads/woods; family-friendly; no large monthly payments.
 
+![My 1999 F250](images/TruckOrginal.png)
+
 ![My 1999 F250](images/Truck.png)
