@@ -7,8 +7,8 @@
 |--------|:------:|-------|
 | Brakes | 🟢 | Check pad life before inspection |
 | Lights | 🟢 | All external lights functional? |
-| Tires | 🟡 | wobble rear tires |
-| Emissions| 🟡 | Check for smoke/codes |
+| Tires | 🟢 | new tires but under weight rating |
+| Emissions| 🟢 | no emissions required |
 | Wipers | 🟢 | |
 
 ## ⚙️ Powertrain
@@ -28,6 +28,4 @@
 | Frame | 🟡 | Surface rust undercoating peeling off |
 
 ## 📝 Known Issues Log
-* Left rear tire wobbles bad over 45 mpg
 * some exhaust smellin truck
-* some burned oil smell after last time in shop
